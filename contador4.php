@@ -5,7 +5,7 @@ ini_set('display_stsrtup_errors',1);
 error_reporting(E_ALL);
 
 $servername = "localhost";
-$username = "guillem";
+$username = "cristian";
 $password = "root";
 $dbname = "estadistiques";
 
